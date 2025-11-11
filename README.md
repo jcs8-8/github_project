@@ -109,7 +109,7 @@ body {
   }
 }
 
-script.js
+git.js
 
 const codes = document.querySelectorAll('.code')
 
